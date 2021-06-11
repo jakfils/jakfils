@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jakfils
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning web developemenent
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me https://twitter.com/jakfils
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web projets
+- 📫 How to reach me : [Twitter](https://twitter.com/jakfils)
 
 <!---
 jakfils/jakfils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
